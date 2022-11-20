@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="guicedee.services.xnio.nio" type="repository">
+    <properties maven-id="com.guicedee.services:xnio-nio:1.0.9.14-jre14" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/xnio-nio/1.0.9.14-jre14/xnio-nio-1.0.9.14-jre14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/guicedee/services/xnio-api/1.0.9.14-jre14/xnio-api-1.0.9.14-jre14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
